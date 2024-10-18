@@ -71,3 +71,4 @@ Protocolo de rede mesh baseado em IPv6
 
 * Protocolo de mensagens leve para comunicação máquina a máquina (M2M)
 
+
