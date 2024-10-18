@@ -55,6 +55,16 @@ Assuntos gerados, para apronfundar o conhecimento e entender como o mundo da red
 
 * Utiliza energia colhida do ambiente (energy harvesting)
 
+*Dash7:*
+* Protocolo de comunicação sem fio de baixa potência e longo alcance
+
+* Usado em aplicações IOT e redes de sensores 
+
+*Ant:*
+* Protocolo de comunicação sem fio de baixa potência
+
+* Usado principalmente em dispositivos fitness e de saúde
+
 ## Protocolos de Camada de Rede e Transporte
 
 *RPL:* 
@@ -72,4 +82,12 @@ Assuntos gerados, para apronfundar o conhecimento e entender como o mundo da red
 
 * Protocolo de mensagens leve para comunicação máquina a máquina (M2M)
 
+*DCCP:*
+* Protocolo que oferece controle de congestionamento para datagramas
 
+* Combinando caracteristicas do TCP e UDP 
+
+*SCTP:*
+* Protocolo que combina caracteristicas do TCP e UDP
+
+* Oferece múltiplos fluxos de dados dentro de uma única conexão
