@@ -25,11 +25,12 @@ Assuntos gerados, para apronfundar o conhecimento e entender como o mundo da red
 
 *Thread:*
 
-Protocolo de rede mesh baseado em IPv6 
+* Protocolo de rede mesh baseado no IPV6
 
 * Projetado para dispositivos de automação residencial e IoT
 
 *WirelessHART:*
+
 * Protocolo de comunicação sem fio para aplicações industriais
 
 * Baseado no padrão HART (Highway Addressable Remote Transducer)
