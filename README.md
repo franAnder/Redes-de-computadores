@@ -5,8 +5,6 @@ Assuntos gerados, para apronfundar o conhecimento e entender como o mundo da red
 
 ### Lista dos principais protocolos de comunicação utilizados em redes de sensores:
 
-*[Protocolos de Comunicação em Redes de Sensores](https://github.com/franAnder/Redes-de-computadores/wiki/Redes-De-Sensores)*
-
 *Zigbee:*
 
 * Baseado no padrão IEEE 802.15.4 Usado para redes de sensores de baixa potência e curto alcance
