@@ -4,64 +4,7 @@ Para aprofundar o estudo e conhecimento em redes de computadores.
 Assuntos gerados, para apronfundar o conhecimento e entender como o mundo da redes de computadores e redes de sensores funcionam.
 
 ### Lista dos principais protocolos de comunicação utilizados em redes de sensores:
-
-*Zigbee:*
-
-* Baseado no padrão IEEE 802.15.4 Usado para redes de sensores de baixa potência e curto alcance
-
-*Bluetooth Low Energy (BLE):*
-
-* Variante de Bluetooth projetada para dispositivos de baixa energia Ideal para redes de sensores em aplicações de IoT
-
-*6LoWPAN:*
-
-* IPv6 over Low-Power Wireless Personal Area Networks Permite a comunicação IPv6 em redes de sensores de baixa potência
-
-*LoRaWAN:*
-
-* Long Range Wide Area Network Protocolo para comunicação de longa distância e baixa potência
-
-*Thread:*
-
-* Protocolo de rede mesh baseado no IPV6
-
-* Projetado para dispositivos de automação residencial e IoT
-
-*WirelessHART:*
-
-* Protocolo de comunicação sem fio para aplicações industriais
-
-* Baseado no padrão HART (Highway Addressable Remote Transducer)
-
-*ISA100.11a:*
-* Protocolo de comunicação sem fio para automação industrial
-
-* Compatível com IPv6 e projetado para alta confiabilidade
-
-*MiWi:*
-* Protocolo proprietário da Microchip Technology
-
-* Baseado no padrão IEEE 802.15.4, similar ao Zigbee
-
-*ANT:*
-* Protocolo de comunicação sem fio de baixa potência
-
-* Usado principalmente em dispositivos de fitness e saúde
-
-*EnOcean:*
-* Protocolo de comunicação sem fio para automação predial
-
-* Utiliza energia colhida do ambiente (energy harvesting)
-
-*Dash7:*
-* Protocolo de comunicação sem fio de baixa potência e longo alcance
-
-* Usado em aplicações IOT e redes de sensores 
-
-*Ant:*
-* Protocolo de comunicação sem fio de baixa potência
-
-* Usado principalmente em dispositivos fitness e de saúde
+*[Protocolos de Comunicação em Redes de Sensores](https://github.com/franAnder/Redes-de-computadores/wiki/Redes-De-Sensores)*
 
 ## Protocolos de Camada de Rede e Transporte
 
