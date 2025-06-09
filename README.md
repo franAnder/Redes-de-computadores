@@ -9,5 +9,5 @@ Assuntos gerados, para apronfundar o conhecimento e entender como o mundo de red
 ## Protocolos de Camada de Rede e Transporte:
 *[Protocolos da camada de rede e transporte](https://github.com/franAnder/Redes-de-computadores/wiki/Protocolos-de-Camada-de-Rede-e-Transporte)*
 
-## Entendendo com o NAT funciona:
+## Entendendo como o NAT funciona:
 *[O que faz?. Onde vivem?. O QUE COMEM?. Como sobrevivem?.]()*
