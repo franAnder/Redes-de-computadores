@@ -10,4 +10,4 @@ Assuntos gerados, para apronfundar o conhecimento e entender como o mundo de red
 *[Protocolos da camada de rede e transporte](https://github.com/franAnder/Redes-de-computadores/wiki/Protocolos-de-Camada-de-Rede-e-Transporte)*
 
 ## Protocolo IPV6:
-*[Histórico do protocolo como caracteristicas e limitações]()
+*[Histórico do protocolo como caracteristicas e limitações]()*
